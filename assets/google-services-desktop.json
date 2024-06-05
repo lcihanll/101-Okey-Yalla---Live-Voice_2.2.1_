@@ -1,0 +1,96 @@
+{
+  "project_info": {
+    "project_number": "252991247074",
+    "project_id": "okey101-76639385",
+    "storage_bucket": "okey101-76639385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252991247074:android:1816f1e585bd63486ac4bb",
+        "android_client_info": {
+          "package_name": "com.yalla.okey101yalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252991247074-frngohbeofnbn1n10u94kb0gh16mtcuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-DslqSZdHUCOiVJYOI_g5im7EwmwVcU"
+        },
+        {
+          "current_key": "AIzaSyCFGA_2spC9Dmx36hBK0NyKnC9FQE7HdWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252991247074-frngohbeofnbn1n10u94kb0gh16mtcuk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252991247074-noq7reneg1kv8g4uoeqlmukomf2qvh35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yalla.okey101yalla"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252991247074:android:8e7ae985c1e570e26ac4bb",
+        "android_client_info": {
+          "package_name": "com.yalla.okey101yalla.mi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252991247074-ou9pm81im9j7irdkt65fq0g80f98t1du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yalla.okey101yalla.mi",
+            "certificate_hash": "b0f351222eed036a7491d16653a7abcdf58cfd8f"
+          }
+        },
+        {
+          "client_id": "252991247074-frngohbeofnbn1n10u94kb0gh16mtcuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-DslqSZdHUCOiVJYOI_g5im7EwmwVcU"
+        },
+        {
+          "current_key": "AIzaSyCFGA_2spC9Dmx36hBK0NyKnC9FQE7HdWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252991247074-frngohbeofnbn1n10u94kb0gh16mtcuk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252991247074-noq7reneg1kv8g4uoeqlmukomf2qvh35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yalla.okey101yalla"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

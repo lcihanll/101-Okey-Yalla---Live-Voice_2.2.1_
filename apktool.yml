@@ -1,0 +1,392 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 101 Okey Yalla - Live & Voice_2.2.1_apkcombo.com.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.browser_browser.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core-ktx.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-service.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.privacysandbox.ads_ads-adservices-java.version
+- META-INF/androidx.privacysandbox.ads_ads-adservices.version
+- META-INF/androidx.room_room-runtime.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.sqlite_sqlite-framework.version
+- META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.startup_startup-runtime.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.work_work-runtime.version
+- META-INF/kotlinx_coroutines_core.version
+- assets/SoundDataList.txt
+- assets/UnityServicesProjectConfiguration.json
+- assets/build_info
+- assets/files.txt
+- assets/google-services-desktop.json
+- gif
+- assets/BuildinFiles/00f1ae8f4f4bd6278b0b26c270d3a744.bundle
+- assets/BuildinFiles/0173db706c67092c6c531a384f75a9aa.bundle
+- assets/BuildinFiles/03986589b2cee9146c8cfb0d2d3f239b.bundle
+- assets/BuildinFiles/04ffc8c5c7ff16f9aa9ce301adf59a90.bundle
+- assets/BuildinFiles/06b9e0f7d958844867f331a1a078331b.bundle
+- assets/BuildinFiles/070ebfddf81ef17c225ced34547a833c.bundle
+- assets/BuildinFiles/07c1384d86e73cf2073f631790a98f75.bundle
+- assets/BuildinFiles/07deec93cc8ba8a2d13a51c94de1924a.bundle
+- assets/BuildinFiles/084d18133fd68c17aed83fcf462e11b8.bundle
+- assets/BuildinFiles/085b10085f205a10ccc13d4bf706d551.bundle
+- assets/BuildinFiles/09eccdd35ae1e94e14f93bd118ec78d1.bundle
+- assets/BuildinFiles/0a4bfeb171cc205f0a06b3a700769ae4.bundle
+- assets/BuildinFiles/0bb36d6ece95b3792109dbeddb62759e.bundle
+- assets/BuildinFiles/0e88b63f2a060e961adf29394b2d54b6.bundle
+- assets/BuildinFiles/0eda66fa21c22ec5e5dd54f51eae14ca.bundle
+- assets/BuildinFiles/0fb38bdfb236b7b2b85f870382565b6e.bundle
+- assets/BuildinFiles/10c212431175785fb7e922e6520347eb.bundle
+- assets/BuildinFiles/15966025ffe6be128701f8a822d04c44.bundle
+- assets/BuildinFiles/1615f4fd5bc6f0a812bf142bf6ec3f70.bundle
+- assets/BuildinFiles/171fda4085422d61d8bbe6f3d0d9a399.bundle
+- assets/BuildinFiles/192dace23b070bc51dc28e1f9291dcc1.bundle
+- assets/BuildinFiles/19bdffb9c15c1a8a65c1f1352fd5ed92.bundle
+- assets/BuildinFiles/1a94175945ba99368b7c8c052654dcae.bundle
+- assets/BuildinFiles/1ca293a265f1388f01815947bce5b053.bundle
+- assets/BuildinFiles/1e79100d022e7f80ba809d48e82fdbcc.bundle
+- assets/BuildinFiles/1e8eb6aedd6d1fd20526937ab9ac1218.bundle
+- assets/BuildinFiles/1fc821d35ad88097d00241a60c613c4b.bundle
+- assets/BuildinFiles/2089b23650d7eccc7904cdf502aa788b.bundle
+- assets/BuildinFiles/214ae1041095d0fefc318437e8c7d1a3.bundle
+- assets/BuildinFiles/22691fa190f3a60863efc03f4cefa3d1.bundle
+- assets/BuildinFiles/236f627f367ac789a745b1689ecdd846.bundle
+- assets/BuildinFiles/23af7d4825a57e1ce608ea570a952362.bundle
+- assets/BuildinFiles/246c96ba6172f4718fa66e21dadf8519.bundle
+- assets/BuildinFiles/24c2eef9a1b467887d9f0ff4ba72f18f.bundle
+- assets/BuildinFiles/24ee8e3eb16878f552e9c71226772617.bundle
+- assets/BuildinFiles/252b4ce186f3d2b93e79359e4974597d.bundle
+- assets/BuildinFiles/2629317727afb52358042fe107f22e29.bundle
+- assets/BuildinFiles/263883f673896ebf6765898dd1f221c0.bundle
+- assets/BuildinFiles/26933a6efa9e93f73a6b75e80b403e3e.bundle
+- assets/BuildinFiles/28d89c33988fc46619d0fb2db3daf20f.bundle
+- assets/BuildinFiles/29dfbefd37a4b3a8bdd84b731503d8bd.bundle
+- assets/BuildinFiles/2f42fdeec55a25e8cc48c1c28f777c52.bundle
+- assets/BuildinFiles/2f8c955f17c8f075d1e251fa43668207.bundle
+- assets/BuildinFiles/3021d68e703a5ccf183ff2edf6043830.bundle
+- assets/BuildinFiles/307ff6acc73f0d5ba63748e7c0443139.bundle
+- assets/BuildinFiles/31b6a2c0f9598636ecd906aaf5005a09.bundle
+- assets/BuildinFiles/328fe3cc5e497c2c5b6e9b73f9f7ff3b.bundle
+- assets/BuildinFiles/342a88321e3f7c4cc44ba84a5b3b3772.bundle
+- assets/BuildinFiles/366e9bd52af3129f25e483ef8f43b29f.bundle
+- assets/BuildinFiles/367f9d7192d13923dbacc6d3c1f723a7.bundle
+- assets/BuildinFiles/3685d6c24e70dcb6a7c23a82a1d80495.bundle
+- assets/BuildinFiles/38c6319ef852959b6ff0cf8aa2e8ef3d.bundle
+- assets/BuildinFiles/393764bde9905d1adc266b8729c58c4c.bundle
+- assets/BuildinFiles/39b23877a226c10f2d1f71da6c8c1a5f.bundle
+- assets/BuildinFiles/3a53c97137977630dfdc2ff1a87b9f54.bundle
+- assets/BuildinFiles/3d3784ffe2eaa372b4f10002d5f6e654.bundle
+- assets/BuildinFiles/3d873737dfc1d67cd024a569494da8f4.bundle
+- assets/BuildinFiles/3db2f31954e6190523b40142747983aa.bundle
+- assets/BuildinFiles/3e32c6d0e8dc269fe4ec63d019f850a2.bundle
+- assets/BuildinFiles/3f136ef643842abb34c6080726dd6812.bundle
+- assets/BuildinFiles/3f51cbfccb662ec75834c8431e043314.bundle
+- assets/BuildinFiles/3f5476ff6c67a6ec493faec9a19b8307.bundle
+- assets/BuildinFiles/3fb6b5a0a95a9415917f8520281da225.bundle
+- assets/BuildinFiles/3fe8c90334c034211f39d9396c0ef38b.bundle
+- assets/BuildinFiles/4047827e5b3a77fcba32130ce2ae2400.bundle
+- assets/BuildinFiles/40d093adb9428de2470a8b002736ad20.bundle
+- assets/BuildinFiles/4121a6a65601b53cbf9f8321c98b6b64.bundle
+- assets/BuildinFiles/41d66815eb80761cb41728577d0ab68d.bundle
+- assets/BuildinFiles/43bbe24fa1c32e5e096c774252e8138e.bundle
+- assets/BuildinFiles/462727bffce242ae9565b4ff73129a64.bundle
+- assets/BuildinFiles/46bb0f23648c055bf2f5cda23d104f36.bundle
+- assets/BuildinFiles/4a97eeb388f15035159c4bb0c2fee2d2.bundle
+- assets/BuildinFiles/4b485be821e6e62fd72e257467f74879.bundle
+- assets/BuildinFiles/4c67b2e7aa3927f4d5e6723d8041b77a.bundle
+- assets/BuildinFiles/4df1daf927bc08055fcfb67f1fd4d184.bundle
+- assets/BuildinFiles/4e9165ff55f7badb2b7757e8d1917653.bundle
+- assets/BuildinFiles/500d1d2f9ae664cba3e65fbde5ced1ab.bundle
+- assets/BuildinFiles/50a4cc782d55c5c0a4f2ad3c4d3a5b86.bundle
+- assets/BuildinFiles/512452d4c32cf40f3a9c6ec1811ae4bc.bundle
+- assets/BuildinFiles/51c623da518e1c94df60be0467fbbf11.bundle
+- assets/BuildinFiles/51e0644aae4445e3ba732d54d90b37b0.bundle
+- assets/BuildinFiles/52151969a469e459710a3d118ef150a9.bundle
+- assets/BuildinFiles/529a09b16654d2d00fc83c3acdcb14f5.bundle
+- assets/BuildinFiles/529efbd3b85794ba7e73781146a0d4fc.bundle
+- assets/BuildinFiles/53e9cf89fbecc9ea2227da2caa68ed90.bundle
+- assets/BuildinFiles/54a8d6860303c6e49baef9eaded8c042.bundle
+- assets/BuildinFiles/55537c8dfe1306ad1b9913c60237f90b.bundle
+- assets/BuildinFiles/57cdec536c4490136aa068b1c7d588ad.bundle
+- assets/BuildinFiles/58d6f561f363bde8ba956f2bcd038922.bundle
+- assets/BuildinFiles/5c013dcaac8fe22ae7f47e123dc8252c.bundle
+- assets/BuildinFiles/5c12fbf4597523213113b8cb75566ab2.bundle
+- assets/BuildinFiles/5c1e1dc517e7a6f4077baa7137156eb8.bundle
+- assets/BuildinFiles/5f945d9a74826e8fff6e6b3f03eb6111.bundle
+- assets/BuildinFiles/603bfcc21948179d9b7704d6ce342b01.bundle
+- assets/BuildinFiles/606cdbb883dfdf1faad85db00adfa544.bundle
+- assets/BuildinFiles/6179959198c54f39bfa6cebc630e15c2.bundle
+- assets/BuildinFiles/623133d8658f5606896d7df37091d7fc.bundle
+- assets/BuildinFiles/62fc056f3d327b9ddc259fba25b3028e.bundle
+- assets/BuildinFiles/64eb797e82b41b362f5470a1d7e8d215.bundle
+- assets/BuildinFiles/6826db36818c7bec018770b5ee566109.bundle
+- assets/BuildinFiles/684614ed04fc8aae0f8b00b7f4bd3d65.bundle
+- assets/BuildinFiles/691b8a02664a26efcb03075c1a5756f6.bundle
+- assets/BuildinFiles/691f7f96805cb709521a7a77c4ebc79a.bundle
+- assets/BuildinFiles/69c28dccf648a75fa53b51dea9cb41de.bundle
+- assets/BuildinFiles/69c2f704297def4dd386570837f17634.bundle
+- assets/BuildinFiles/6ed2a0095ec08abe552be599466270d7.bundle
+- assets/BuildinFiles/6f75814320b5fc8500579a1690f77712.bundle
+- assets/BuildinFiles/6fa05d3a042a54a317b360f4d9c68018.bundle
+- assets/BuildinFiles/6fb433187611d7f89ff930e369d2af07.bundle
+- assets/BuildinFiles/70efddd3807db5cdada00bc47940450d.bundle
+- assets/BuildinFiles/712f9d44c97085f280b7bd41a0ce0994.bundle
+- assets/BuildinFiles/717081de850bc872242e3c51b9c2f370.bundle
+- assets/BuildinFiles/7316129a2fdfd5172160d8449e6a0b10.bundle
+- assets/BuildinFiles/7425b9329d5521916be2b8e28e668c6d.bundle
+- assets/BuildinFiles/75297d6f9ec715aafc95e17ce20838f6.bundle
+- assets/BuildinFiles/755b01c7501bea5dafaba8bdee08bb72.bundle
+- assets/BuildinFiles/75daa6281521475a9b019ff702253478.bundle
+- assets/BuildinFiles/76fef1db76b476ef2f6aaf1c6ce6a7d7.bundle
+- assets/BuildinFiles/7740a353a996ffe36b7f9f63b9b3c450.bundle
+- assets/BuildinFiles/7756c60d0cf8a13deb2fa498013dce95.bundle
+- assets/BuildinFiles/77ed43d054c6e582dc85162e87c91762.bundle
+- assets/BuildinFiles/7897322a02976002b4f356ca7f8654d9.bundle
+- assets/BuildinFiles/78f5af0882d1bd4dd49e90439b893d64.bundle
+- assets/BuildinFiles/79620b15205ca1999dfdbdd41118c2f1.bundle
+- assets/BuildinFiles/7a1692ca6db925616fd3da81571e19d5.bundle
+- assets/BuildinFiles/7b03ac338356e6bd01754e3d5cc12186.bundle
+- assets/BuildinFiles/7c68f5124849d8685710855227dfaf95.bundle
+- assets/BuildinFiles/7c8602e9b313d39eb6a7154e04d1ba1d.bundle
+- assets/BuildinFiles/80d8dd8518a6a413e56056a6e0c0cbf0.bundle
+- assets/BuildinFiles/81ac5388a06bed99b95ed061c428b02f.bundle
+- assets/BuildinFiles/82376016c50bb2daf526fe2eda01bf61.bundle
+- assets/BuildinFiles/82f4623f622ba5df4ed35a819edaa8f4.bundle
+- assets/BuildinFiles/84a3ad920bf3a08d0cbdeb0e7fae7ac4.bundle
+- assets/BuildinFiles/86251008a81e580c978a36976e0e5b35.bundle
+- assets/BuildinFiles/86ebf036c7ee858bd09c222e066d2f6b.bundle
+- assets/BuildinFiles/8862b9933ad2cce0920700b762f77407.bundle
+- assets/BuildinFiles/89ee507612ae8cbd29877f001b57f38e.bundle
+- assets/BuildinFiles/8b60a62416409585696608a34a5733c2.bundle
+- assets/BuildinFiles/8c4ac287a812e7316bda442d535cba1d.bundle
+- assets/BuildinFiles/8d85ad5b406e19512241d0c8e172b4e7.bundle
+- assets/BuildinFiles/8f18a18413249dc59f7fa0323042d204.bundle
+- assets/BuildinFiles/8f64f049df3894007fc21921aad313e6.bundle
+- assets/BuildinFiles/917421d416a2623ac337863090d0dbe8.bundle
+- assets/BuildinFiles/92ac5d2e8119687ec9a430379a48b236.bundle
+- assets/BuildinFiles/93129c9be65628441bf0834ad29fa1b7.bundle
+- assets/BuildinFiles/93cfbf2feb6be69db8630ec697366701.bundle
+- assets/BuildinFiles/93d816084bd511b6f4918c90daf2752e.bundle
+- assets/BuildinFiles/95b8e532b9ca4fac4e673a3623917aad.bundle
+- assets/BuildinFiles/962b13729adf502a83201f793c730170.bundle
+- assets/BuildinFiles/97400f8ecb6e049add3ac08826423d30.bundle
+- assets/BuildinFiles/989d78bef685d681a66e5a40f62944ba.bundle
+- assets/BuildinFiles/99386c0ab99ccf6b11034224297121ff.bundle
+- assets/BuildinFiles/9a3f7674571634158aec902cd5e5a66e.bundle
+- assets/BuildinFiles/9a7ab177e751ceea0fdf7402b536891b.bundle
+- assets/BuildinFiles/9a8789d61455cf1b350eee3e61836726.bundle
+- assets/BuildinFiles/9ac10fb1dcdbac1369c3f3d0f04646bf.bundle
+- assets/BuildinFiles/9af76ff9c85b1190b43b9d79caf705a2.bundle
+- assets/BuildinFiles/9e61a00dd5b4e97d434992750ee810f1.bundle
+- assets/BuildinFiles/9fb3ddee97ac3e97c48a7e612ebd969b.bundle
+- assets/BuildinFiles/9fe7165b36bd0b65fde82825da59ce5c.bundle
+- assets/BuildinFiles/PackageManifest_DefaultPackage.version
+- assets/BuildinFiles/PackageManifest_DefaultPackage_2024-04-25-933.bytes
+- assets/BuildinFiles/PackageManifest_DefaultPackage_2024-04-25-933.hash
+- assets/BuildinFiles/a05acbd842a374f2d6d006af8ef17e0e.bundle
+- assets/BuildinFiles/a15c7f83c73a7002404cf49b24bb7113.bundle
+- assets/BuildinFiles/a167088543dddd5b3d283a903872e35f.bundle
+- assets/BuildinFiles/a3183f9fadeb1edc6299a0bcc1939fa6.bundle
+- assets/BuildinFiles/a42feaacdc3fe59126e0caaadb9931e6.bundle
+- assets/BuildinFiles/a46c6a7a0718be9cf1d4712862ad180a.bundle
+- assets/BuildinFiles/a4a47f23275a7afd779cfb3b58971e0e.bundle
+- assets/BuildinFiles/a4bff794f4d5c8a48c2ac5707c318b35.bundle
+- assets/BuildinFiles/a4c7bf1a2aafc5a1745f991b71213f3b.bundle
+- assets/BuildinFiles/a630f8fb31a1cdeab392f04e60b6dbf3.bundle
+- assets/BuildinFiles/a6634e41a29247b4c1bd7d71e56302d5.bundle
+- assets/BuildinFiles/a6a0313766fbccaf9a06c81b70597a78.bundle
+- assets/BuildinFiles/a6f3e16276b364eee8e15485a93c7dad.bundle
+- assets/BuildinFiles/a72af96f391a7b08688f880324d67a0d.bundle
+- assets/BuildinFiles/a7309b337d155fe42a33a3433d18b167.bundle
+- assets/BuildinFiles/a9696dde2bca67b3244557ea0c1b35d2.bundle
+- assets/BuildinFiles/ac16e30ac249f3b345a2a929059af944.bundle
+- assets/BuildinFiles/acd4a8e887d6cd432963de3cbe16afd6.bundle
+- assets/BuildinFiles/ae315fe281af6a72d8613dd72dbdd443.bundle
+- assets/BuildinFiles/ae9f4379927395fda2ea131d1ca4df93.bundle
+- assets/BuildinFiles/b0c27b4799d0f0ae3a38269eebf0ea52.bundle
+- assets/BuildinFiles/b0f5d6dfec29c1ebcc80daed2105d748.bundle
+- assets/BuildinFiles/b41faf8af360632dc0125d9c09dbb378.bundle
+- assets/BuildinFiles/b462dc7d7bb7059e6d890b486e0e204b.bundle
+- assets/BuildinFiles/b4a042d64b406613af2c67ce150d24c0.bundle
+- assets/BuildinFiles/b535ebf1004401ce21e15406597c19b6.bundle
+- assets/BuildinFiles/b960374f235cc163b3b3a84cdecf6acf.bundle
+- assets/BuildinFiles/ba30fa7d46e5243de71982a6995d6b9f.bundle
+- assets/BuildinFiles/bac184788c2b40540bea8ac6e4d2a4d5.bundle
+- assets/BuildinFiles/bb7d813043037b25648d4c03f6d84643.bundle
+- assets/BuildinFiles/bc6e4dd068b1891c09a0ae87cd1f22af.bundle
+- assets/BuildinFiles/bcb59c87e5a6e25537d8465284157c57.bundle
+- assets/BuildinFiles/bce9802140cb8595163d8b64ddad2df3.bundle
+- assets/BuildinFiles/be9b850f27065da20bbb1f830f43b369.bundle
+- assets/BuildinFiles/c2cff0e7e92a13e37c80502381f55c06.bundle
+- assets/BuildinFiles/c30d954c74fd4b43ffcf018d50f8d0bb.bundle
+- assets/BuildinFiles/c3f0b23d783add4bb1095198cd7b3e2f.bundle
+- assets/BuildinFiles/c483523f0def0c352ce92e5182b9266a.bundle
+- assets/BuildinFiles/c4fe482c9979ed37a46f746ccc210076.bundle
+- assets/BuildinFiles/c6b7be3efd7ce80040cdf80a4b1ff3f4.bundle
+- assets/BuildinFiles/c82de2c10f461dd7eddca9cfb43cdcea.bundle
+- assets/BuildinFiles/ca0be52f808a7d8d51925d3a230a4b40.bundle
+- assets/BuildinFiles/cad00dffeefa1ae521e31620e6ef6ab3.bundle
+- assets/BuildinFiles/cb69d11ee3737215fac2b3b240a01484.bundle
+- assets/BuildinFiles/cc22827f405d5d56b5c2bf529efa4c06.bundle
+- assets/BuildinFiles/cc6b94fb41d4fdeca1fc039e363a73d9.bundle
+- assets/BuildinFiles/cc811c23913ad5ebf424cc169ea88873.bundle
+- assets/BuildinFiles/cd40cda9e98033ca3aefc306c1ccac7a.bundle
+- assets/BuildinFiles/d0da3dfb52c76e702d590d37d84df6a5.bundle
+- assets/BuildinFiles/d31cf14f29087e2029e4a5e6f6b1b401.bundle
+- assets/BuildinFiles/d3463b70fcc57b34eea9cdf53b18e475.bundle
+- assets/BuildinFiles/d680ab4ba132734a5be8110e7d011aad.bundle
+- assets/BuildinFiles/d772771d7423ffe11a767a8ea7b32c9c.bundle
+- assets/BuildinFiles/d785338818d52bba1ac1d8c818e6d57a.bundle
+- assets/BuildinFiles/d85ade7693a03d57728d0f410909737d.bundle
+- assets/BuildinFiles/d881089919607f5fdc72265db2ad7992.bundle
+- assets/BuildinFiles/d960c6e5f79ff5b2ae12fd53f3e9a424.bundle
+- assets/BuildinFiles/d99743d8c67caae670f868e27bb71dbb.bundle
+- assets/BuildinFiles/db88b932f8b352806aeea5b5bfad3d57.bundle
+- assets/BuildinFiles/de98fc45ba965bad2ddfd45e5b5183f6.bundle
+- assets/BuildinFiles/e0581b2102b799b162df95bbda2883b0.bundle
+- assets/BuildinFiles/e09c8f4da06e42d9a144938e664ca03d.bundle
+- assets/BuildinFiles/e0ee28377625dfcf3950ffaa943766f5.bundle
+- assets/BuildinFiles/e0f21c88ca47aed1fae81b405ef03a62.bundle
+- assets/BuildinFiles/e122ba2aa3be3ccbabec3d56bc804ecd.bundle
+- assets/BuildinFiles/e1f3949c8d5995f8b152dd56f4fb2423.bundle
+- assets/BuildinFiles/e200e95c69ddf8a46489e76c2a50fe91.bundle
+- assets/BuildinFiles/e2d9494be4467414421c75ed9c0ea9a9.bundle
+- assets/BuildinFiles/e3be39d8e7d1c28d49d0514aa13ae3a0.bundle
+- assets/BuildinFiles/e3fafd2b92e9f908a6648dc67612a148.bundle
+- assets/BuildinFiles/e4721a4cf8726206ddbab29b48e2876c.bundle
+- assets/BuildinFiles/e54caec88287b87d52d0d9229667148e.bundle
+- assets/BuildinFiles/e607a3cf1e42575f5e711ebfbf9ead14.bundle
+- assets/BuildinFiles/e6725356bb974a27ab8983eaebabcf99.bundle
+- assets/BuildinFiles/e6a52a4f0faf226f71ce40a1b73ca022.bundle
+- assets/BuildinFiles/e6ad1f4e7766b57fe08e002e191990f6.bundle
+- assets/BuildinFiles/e7ab4c5bc64c30e540991377385a7280.bundle
+- assets/BuildinFiles/e8ac816809bd007c76a6cee30637bbe0.bundle
+- assets/BuildinFiles/e8ad1e4ddb9eb4592fbde7fc18e7268f.bundle
+- assets/BuildinFiles/e8c12ae93f3bf9d5f039b86213f58cad.bundle
+- assets/BuildinFiles/e912aeeca58b4fd7d073cb1bb7453ed3.bundle
+- assets/BuildinFiles/ea550f6f63f8609cc833457567fbcb78.bundle
+- assets/BuildinFiles/ebf30c4d23f064b0bbf16621f60e6ae0.bundle
+- assets/BuildinFiles/ed6cb83c71e62e11c3af4db53f3442cc.bundle
+- assets/BuildinFiles/ee3757121f670bd62a5ff0e748b6f236.bundle
+- assets/BuildinFiles/efa195f9bc0e0c0ef719569820b6604c.bundle
+- assets/BuildinFiles/f2603c9727edd13884e35ce86a6af1bc.bundle
+- assets/BuildinFiles/f26176fdf5ae6f26bdbd06fdd8c6c68d.bundle
+- assets/BuildinFiles/f2668a614630b0824ca46b8c2f041235.bundle
+- assets/BuildinFiles/f413ce5d22bfd01134e498cabebe06a2.bundle
+- assets/BuildinFiles/f49563d84dd41e6845196b68dc7cada0.bundle
+- assets/BuildinFiles/f4b18ae1f5c719a44eee214840c005c1.bundle
+- assets/BuildinFiles/f5028b6455dc65745cc1236ea0a6487b.bundle
+- assets/BuildinFiles/f55c8dcce696f141b946946520a9c225.bundle
+- assets/BuildinFiles/f75ff5ef25f2fda33c01ecb36fbf9761.bundle
+- assets/BuildinFiles/f851aa11dc98239c27ff6a3e681d0c62.bundle
+- assets/BuildinFiles/fa206c1b1b68e1ae81d17d2353329667.bundle
+- assets/BuildinFiles/fb3e4352d5acd707489b1bdb2193a42f.bundle
+- assets/BuildinFiles/fba452c2f934ad9152741708841035ff.bundle
+- assets/BuildinFiles/fc069051704e9461fb3cb65a0c395958.bundle
+- assets/BuildinFiles/fffec5096f6d9185b78261159645036f.bundle
+- assets/ChatRoom/ChatRoomAudioDataList.txt
+- mp3
+- wav
+- assets/bin/Data/data.unity3d
+- assets/bin/Data/Managed/Metadata/game.dat
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '33'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  billing.properties: '8'
+  core-common.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-annotations.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-datatransport.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-encoders-proto.properties: '8'
+  firebase-encoders.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  play-services-ads-base.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-ads-lite.properties: '8'
+  play-services-ads.properties: '8'
+  play-services-appset.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-auth.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-cloud-messaging.properties: '8'
+  play-services-drive.properties: '8'
+  play-services-games.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-nearby.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  review.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  user-messaging-platform.properties: '8'
+  stamp-cert-sha256: '8'
+  com/appsflyer/internal/a-: '0'
+  com/appsflyer/internal/b-: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '119'
+  versionName: 2.2.1
